@@ -1,0 +1,12 @@
+.error{
+  color:#e7026e;
+}
+.data-table
+{
+  width:104% !important;
+  display:block;
+  overflow:auto;
+}
+.is-invalid .select2-container--default .select2-selection--single {
+  border-color: #dc3545;
+}
